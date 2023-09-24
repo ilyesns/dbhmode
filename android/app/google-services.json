@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "585246569039",
+    "project_id": "dbh-shop",
+    "storage_bucket": "dbh-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585246569039:android:07acbb43513e582245703a",
+        "android_client_info": {
+          "package_name": "com.dbhmode.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585246569039-b5k039gc14tvma1qlloigrmlh7ud8p0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbhmode.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "585246569039-17h9r4is0f4kkrnvgqsgme1la3o8krne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBh2B_9e6lJb6shCAJPyKxBV0sOQZtDb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585246569039-17h9r4is0f4kkrnvgqsgme1la3o8krne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585246569039-6vlqm35jfjhjsegulmevokhbl9fl8j0v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbhmode.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585246569039:android:3395884e6daf94d645703a",
+        "android_client_info": {
+          "package_name": "com.mycompany.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585246569039-17h9r4is0f4kkrnvgqsgme1la3o8krne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBh2B_9e6lJb6shCAJPyKxBV0sOQZtDb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585246569039-17h9r4is0f4kkrnvgqsgme1la3o8krne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585246569039-6vlqm35jfjhjsegulmevokhbl9fl8j0v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbhmode.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
